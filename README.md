@@ -37,6 +37,9 @@ U8g2 y ESP32Servo.
 ## Simulación
 https://wokwi.com/projects/477807075508506625
 
+## Informe
+[https://wokwi.com/projects/477807075508506625](https://docs.google.com/document/d/1ySjKrsOBjqif7KxdQ0PrX85FYjqoNrnKRbl9VoBPTlM/edit?tab=t.0)
+
 ## Archivos
 - `sketch.ino`: código fuente
 - `diagram.json`: circuito de Wokwi
