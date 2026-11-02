@@ -79,8 +79,8 @@ void actualizarEstado() {
     colorEstado = "AMARILLO";
 
     nivelLlenado = (int)(
-                     (40.0 - distancia) / 30.0 * 100.0
-                   );
+      (40.0 - distancia) / 30.0 * 100.0
+    );
 
     nivelLlenado = constrain(nivelLlenado, 0, 100);
   }
